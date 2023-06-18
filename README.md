@@ -17,7 +17,7 @@
 ### Install
 
 ```
-go get -v -u github.com/Gimaaa/go_image
+go get -v -u github.com/gimaaa/go_image
 ```
 
 ### Main funciton
